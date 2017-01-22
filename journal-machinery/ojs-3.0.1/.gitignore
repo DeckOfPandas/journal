@@ -2,4 +2,5 @@ cache/*.php
 cache/*.css
 cache/HTML/
 cache/t_compile/*.php
-
+../ojs3_uploads/
+config.inc.php
