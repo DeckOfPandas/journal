@@ -31,13 +31,16 @@
             </ul>
 
             <div class="tab-content">
+                
                 <div class="space40"></div> 
+
                 <div class="tab-pane active" id="authorpolicies">
                     <?php include('authorpolicies.php'); ?>
                 </div>
                 <div class="tab-pane" id="manuscriptpreparation">
                     <?php include('manuscriptpreparation.php'); ?>
-                </div><div class="tab-pane" id="checklist">
+                </div>
+                <div class="tab-pane" id="checklist">
                     <?php include('checklist.php'); ?>
                 </div>
             </div>

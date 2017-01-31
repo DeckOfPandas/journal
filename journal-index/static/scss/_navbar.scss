@@ -31,22 +31,6 @@
     background-color: $brand-primary-highlight;
 }
 
-@media(min-width:768px){
-    .navbar-nav>li>a {
-        padding-top: 30px;
-        padding-bottom: 30px;
-    }
-    .navbar-right .dropdown-menu {
-        right: auto;
-        left: auto;
-    }
-    .navbar-brand{
-        line-height: 54px;
-        margin-top: 0px;
-        padding: 0 0 0 0;
-    }
-}
-
 .navbar-brand>img {
     display: block;
     height: 110px;
